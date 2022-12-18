@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { Panel, PanelHeader, Button, Div } from '@vkontakte/vkui';
 
 import onbd2 from '../img/onbd/onbd2.png';
-import './Onboarding.css';
+import './Styles.css';
 
 const Persik = props => (
 	<Panel id={props.id}>

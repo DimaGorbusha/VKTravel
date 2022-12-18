@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { Panel, PanelHeader, Button, Div } from '@vkontakte/vkui';
 
 import onbd3 from '../img/onbd/onbd3.png';
-import './Onboarding.css';
+import './Styles.css';
 
 const Onboarding3 = props => (
 	<Panel id={props.id}>

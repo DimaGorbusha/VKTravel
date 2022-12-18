@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import onbd1 from '../img/onbd/onbd1.png'
-import './Onboarding.css'
+import './Styles.css'
 import { Panel, PanelHeader, Button, Div} from '@vkontakte/vkui';
 
 const Home = ({ id, go }) => (
